@@ -2,7 +2,8 @@
     color: #e7e9f0;
     background-color: #282d4f;
     margin: 10px 15px;
-    min-width: 70px;
+    min-width: 150px;
+    /* max-width: 150px; */
     padding: 10px 20px;
     border-radius: 10px;
     box-shadow: 0px 0px 5px rgba(255,255,255,0.1);
@@ -18,7 +19,7 @@
 
 .result-name{
     margin:0;
-    font-weight: 100;
+    font-weight:300;
 }
 
 .card-link{

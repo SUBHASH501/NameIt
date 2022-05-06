@@ -9,7 +9,7 @@ const ResultContainer=({suggestedNames}) =>{
     
   return (
     <div className='results-container'>
-      <p>{suggestNamejsx}</p>
+      {suggestNamejsx}
     </div>
   );
 }
